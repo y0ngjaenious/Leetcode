@@ -1,5 +1,5 @@
 # Leetcode
-- Personal repo for preparing code interview with Code study 2021([repo]())
+- Personal repo for preparing code interview with Code study 2021([repo](https://github.com/y0ngjaenious/3Q-per-week))
 - Minimum 3 question per week.
 
 ## Problems
