@@ -30,14 +30,14 @@
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Algorithms/Two%20Pointer(Sliding%20Window)/longest_substring_without_repeating_characters.py) | _O(n)_       | _O(1)_          | Medium         |||
 0008 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Algorithms/Two%20Pointer(Sliding%20Window)/Container-With-Most-Water.py) | _O(n)_       | _O(1)_          | Medium         |||
 
--Divide and Conquer
+- Divide and Conquer
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0005 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./Algorithms/Divide%20and%20Conquer/Median_of_Two_Sorted_Arrays.py) | _O(log(n+m)_       | _O(1)_          | Hard         |||
 
 
--Dynamic Programming
+- Dynamic Programming
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
