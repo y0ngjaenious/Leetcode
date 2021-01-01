@@ -10,6 +10,8 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Insertion sort list](https://leetcode.com/problems/insertion-sort-list/) | [Python](./DataStructure/LinkedList/Insertion%20Sort%20List.py) | _O(n)_       | _O(1)_          | Medium         |||
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./DataStructure/LinkedList/add_two_numbers.py) | _O(n+m)_       | _O(1)_          | Medium         |||
+0011 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./DataStructure/LinkedList/remove-nth-node-from-end-of-list.py) | _O(n)_       | _O(1)_          | Medium         |||
+0012 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./DataStructure/LinkedList/swap-nodes-in-pairs.py) | _O(n)_       | _O(1)_          | Medium         |||
 
 - Map
 
@@ -48,3 +50,10 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Implementation/Palindrome-Number.py) | _O(n)_       | _O(1)_          | Easy         |||
+
+- Brute Force
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0010 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/BP/Letter-Combinations-of-a-Phone-Number.py) | _O(4^n)_       | _O(1)_          | Medium         |||
+
