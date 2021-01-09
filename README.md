@@ -12,6 +12,7 @@
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./DataStructure/LinkedList/add_two_numbers.py) | _O(n+m)_       | _O(1)_          | Medium         |||
 0011 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./DataStructure/LinkedList/remove-nth-node-from-end-of-list.py) | _O(n)_       | _O(1)_          | Medium         |||
 0012 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./DataStructure/LinkedList/swap-nodes-in-pairs.py) | _O(n)_       | _O(1)_          | Medium         |||
+0013 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-k-sorted-lists) | _O(nlogk)    | _O(k)_          | Hard         |||
 
 - Map
 
@@ -19,6 +20,12 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0004 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./DataStructure/Map/two_sum.py) | _O(n)_       | _O(n)_          | Easy         |||
 0009 | [3sum](https://leetcode.com/problems/3sum/) | [Python](./DataStructure/Map/3-sum.py) | _O(n^2)_       | _O(n)_          | Medium         |||
+
+- Stack
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parantheses.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 - Priority Queue(Heap)
 - Tree
@@ -44,6 +51,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0006 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Algorithms/DP/Longest-Palindromic-Substring.py) | _O(n^2)_       | _O(1)_          | Medium         |||
+0015 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Algorithms/DP/maximum-subarray.py) | _O(n)_       | _O(1)_          | Easy         |||
 
 - Implementation
 
