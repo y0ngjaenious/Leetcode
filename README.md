@@ -25,7 +25,7 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parantheses.py) | _O(n)_       | _O(n)_          | Easy         |||
+0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parentheses.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 - Priority Queue(Heap)
 - Tree
