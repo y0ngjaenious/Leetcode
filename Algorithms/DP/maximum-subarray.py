@@ -30,14 +30,14 @@ class Solution:
 # DP
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        opt = []
+        prev = None
         sol = -2 ** 31
         for i in nums:
-            if not opt:
+            if not prev:
                 cur = i
             else:
-                cur = max(opt[-1] + i, i)
-            opt.append(cur)
+                cur = max(prev + i, i)
+            prev = cur
             if cur > sol:
                 sol = cur
         return sol
