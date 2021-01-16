@@ -52,6 +52,9 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0006 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Algorithms/DP/Longest-Palindromic-Substring.py) | _O(n^2)_       | _O(1)_          | Medium         |||
 0015 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./Algorithms/DP/maximum-subarray.py) | _O(n)_       | _O(1)_          | Easy         |||
+0016 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/DP/climbing-stairs.py) | _O(n)_       | _O(n)_          | Easy         |||
+0017 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Algorithms/DP/unique-paths.py) | _O(n)_       | _O(1)_          | Medium         |||
+0018 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./Algorithms/DP/minimum-path-sum.py) | _O(mn)_       | _O(mn)_          | Medium         |||
 
 - Implementation
 
