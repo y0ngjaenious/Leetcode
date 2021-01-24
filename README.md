@@ -12,7 +12,8 @@
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./DataStructure/LinkedList/add_two_numbers.py) | _O(n+m)_       | _O(1)_          | Medium         |||
 0011 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./DataStructure/LinkedList/remove-nth-node-from-end-of-list.py) | _O(n)_       | _O(1)_          | Medium         |||
 0012 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./DataStructure/LinkedList/swap-nodes-in-pairs.py) | _O(n)_       | _O(1)_          | Medium         |||
-0013 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-k-sorted-lists) | _O(nlogk)    | _O(k)_          | Hard         |||
+0013 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-k-sorted-lists.py) | _O(nlogk)_    | _O(k)_          | Hard         |||
+0019 | [Merge Two sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-two-sorted-lists.py) | _O(n+m)_    | _O(1)_          | Easy         |||
 
 - Map
 
@@ -26,6 +27,12 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parentheses.py) | _O(n)_       | _O(n)_          | Easy         |||
+
+- Bit
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0021 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./DataStructure/Bit/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
 
 - Priority Queue(Heap)
 - Tree
@@ -55,6 +62,7 @@
 0016 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/DP/climbing-stairs.py) | _O(n)_       | _O(n)_          | Easy         |||
 0017 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Algorithms/DP/unique-paths.py) | _O(n)_       | _O(1)_          | Medium         |||
 0018 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./Algorithms/DP/minimum-path-sum.py) | _O(mn)_       | _O(mn)_          | Medium         |||
+0020 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell.py) | _O(n)_       | _O(1)_          | Easy         |||
 
 - Implementation
 
