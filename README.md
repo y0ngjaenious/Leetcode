@@ -45,6 +45,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Algorithms/Two%20Pointer(Sliding%20Window)/longest_substring_without_repeating_characters.py) | _O(n)_       | _O(1)_          | Medium         |||
 0008 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Algorithms/Two%20Pointer(Sliding%20Window)/Container-With-Most-Water.py) | _O(n)_       | _O(1)_          | Medium         |||
+0022 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Two%20Pointer(Sliding%20Window)/trapping-rain-water.py) | _O(n)_       | _O(1)_          | Hard         |||
 
 - Divide and Conquer
 
