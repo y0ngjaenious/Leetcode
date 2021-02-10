@@ -1,4 +1,4 @@
-question link: https://leetcode.com/problems/palindrome-number
+# question link: https://leetcode.com/problems/palindrome-number
 
 ## First Solution - Not that bad
 
