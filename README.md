@@ -14,6 +14,13 @@
 0012 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./DataStructure/LinkedList/swap-nodes-in-pairs.py) | _O(n)_       | _O(1)_          | Medium         |||
 0013 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-k-sorted-lists.py) | _O(nlogk)_    | _O(k)_          | Hard         |||
 0019 | [Merge Two sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-two-sorted-lists.py) | _O(n+m)_    | _O(1)_          | Easy         |||
+0030 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./DataStructure/LinkedList/copy-list-with-random-pointer.py) | _O(n)_    | _O(n)_          | Medium         |||
+
+- Array
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0025 | [Merge intervals](https://leetcode.com/problems/two-sum/) | [Python](./DataStructure/Map/two_sum.py) | _O(nlogn)_       | _O(1)_          | Medium         |||
 
 - Map
 
@@ -27,6 +34,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parentheses.py) | _O(n)_       | _O(n)_          | Easy         |||
+0026 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python](./DataStructure/Stack/shortest-distance-to-a-character.py) | _O(n)_       | _O(n)_          | Easy         |||
+0027 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./DataStructure/Stack/simplify-path.py) | _O(n)_       | _O(n)_          | Medium         |||
 
 - Bit
 
@@ -34,8 +43,13 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0021 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./DataStructure/Bit/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
 
+- BST
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0029 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./DataStructure/BST/binary-search-tree-to-greater-sum-tree.py) | _O(n)_       | _O(h)_          | Medium         |||
+
 - Priority Queue(Heap)
-- Tree
 - Graph
 
 ### Algorithms
@@ -64,16 +78,24 @@
 0017 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Algorithms/DP/unique-paths.py) | _O(n)_       | _O(1)_          | Medium         |||
 0018 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./Algorithms/DP/minimum-path-sum.py) | _O(mn)_       | _O(mn)_          | Medium         |||
 0020 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell.py) | _O(n)_       | _O(1)_          | Easy         |||
+0024 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python](./Algorithms/DP/maximum-profit-in-job-scheduling.py) | _O(nlogn)_       | _O(1)_          | Hard         |||
 
 - Implementation
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0007 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Implementation/Palindrome-Number.py) | _O(n)_       | _O(1)_          | Easy         |||
+0007 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Implementation/palindrome-number.py) | _O(n)_       | _O(1)_          | Easy         |||
+0028 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](./Algorithms/Implementation/peeking-iterator.py) |       |          | Medium         |||
 
 - Brute Force
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0010 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/BP/Letter-Combinations-of-a-Phone-Number.py) | _O(4^n)_       | _O(1)_          | Medium         |||
+
+- Greedy
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0023 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/Greedy/jump-game.py) | _O(n)_       | _O(1)_          | Medium         |||
 
