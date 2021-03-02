@@ -20,7 +20,9 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0025 | [Merge intervals](https://leetcode.com/problems/two-sum/) | [Python](./DataStructure/Map/two_sum.py) | _O(nlogn)_       | _O(1)_          | Medium         |||
+0025 | [Merge intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./DataStructure/Array/merge-intervals.py) | _O(nlogn)_       | _O(1)_          | Medium         |||
+0032 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./DataStructure/Array/remove-duplicates-from-sorted-array.py) | _O(n)_       | _O(1)_          | Easy         |||
+0033 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./DataStructure/Array/remove-duplicates-from-sorted-array-ii.py) | _O(n)_       | _O(n)_          | Medium         |||
 
 - Map
 
@@ -28,6 +30,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0004 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./DataStructure/Map/two_sum.py) | _O(n)_       | _O(n)_          | Easy         |||
 0009 | [3sum](https://leetcode.com/problems/3sum/) | [Python](./DataStructure/Map/3-sum.py) | _O(n^2)_       | _O(n)_          | Medium         |||
+0034 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Python](./DataStructure/Map/distribute-candies.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 - Stack
 
@@ -36,12 +39,14 @@
 0011 | [Valid Paranthses](https://leetcode.com/problems/valid-parentheses/) | [Python](./DataStructure/Stack/valid-parentheses.py) | _O(n)_       | _O(n)_          | Easy         |||
 0026 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python](./DataStructure/Stack/shortest-distance-to-a-character.py) | _O(n)_       | _O(n)_          | Easy         |||
 0027 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./DataStructure/Stack/simplify-path.py) | _O(n)_       | _O(n)_          | Medium         |||
+0031 | [Roman to Interger](https://leetcode.com/problems/roman-to-integer/) | [Python](./DataStructure/Stack/roman-to-integer.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 - Bit
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0021 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./DataStructure/Bit/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
+0035 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](./DataStructure/Bit/set-mismatch.py) | _O(n)_       | _O(1)_          | Easy         |||
 
 - BST
 
@@ -98,4 +103,10 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0023 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/Greedy/jump-game.py) | _O(n)_       | _O(1)_          | Medium         |||
+0036 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./Algorithms/Greedy/jump-game-ii.py) | _O(n)_       | _O(1)_          | Hard         |||
 
+- BFS
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0037 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/BFS/jump-game-iii.py) | _O(n)_       | _O(n)_          | Medium         |||
