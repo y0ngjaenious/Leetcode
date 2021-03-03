@@ -47,6 +47,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0021 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./DataStructure/Bit/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
 0035 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](./DataStructure/Bit/set-mismatch.py) | _O(n)_       | _O(1)_          | Easy         |||
+0038 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C](./DataStructure/Bit/missing-number.c) | _O(n)_       | _O(1)_          | Easy         |||
 
 - BST
 
