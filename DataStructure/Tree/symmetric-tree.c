@@ -11,20 +11,8 @@
 
 bool helper(struct TreeNode *p1, struct TreeNode *p2);
 bool isSymmetric(struct TreeNode* root){
-    struct TreeNode *p1, *p2;
-    p1 = root->left;
-    p2 = root->right;
-    if (p1 == NULL){
-        if (p2 == NULL) return true;
-        else return false;
-    }
-    if (p2 == NULL) return false;
-    if (p1->val == p2->val){
-        return helper(p1->left, p2->right) && helper(p1->right, p2->left);
-    }
-    else{
-        return false;
-    }
+    if (root == NULL) return true;
+    return helper(root->left, root->right);
 }
 
 bool helper(struct TreeNode *p1, struct TreeNode *p2){
