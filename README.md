@@ -55,6 +55,12 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0029 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./DataStructure/BST/binary-search-tree-to-greater-sum-tree.py) | _O(n)_       | _O(h)_          | Medium         |||
 
+- Tree
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0039 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./DataStructure/Tree/symmetric-tree.c) | _O(n)_       | _O(1)_          | Easy         |||
+
 - Priority Queue(Heap)
 - Graph
 
