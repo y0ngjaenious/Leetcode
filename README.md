@@ -15,7 +15,7 @@
 0013 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-k-sorted-lists.py) | _O(nlogk)_    | _O(k)_          | Hard         |||
 0019 | [Merge Two sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-two-sorted-lists.py) | _O(n+m)_    | _O(1)_          | Easy         |||
 0030 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./DataStructure/LinkedList/copy-list-with-random-pointer.py) | _O(n)_    | _O(n)_          | Medium         |||
-0040 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C](./DataStructure/LinkedList/intersection-of-two-linked-lists.c) | _O(n)_    | _O(1)_          | Easy         |||
+0040 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C](./DataStructure/LinkedList/intersection-of-two-linked-lists.c) | _O(n)_    | _O(1)_          | Easy         |||
 
 - Array
 
