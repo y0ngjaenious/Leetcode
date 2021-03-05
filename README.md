@@ -61,6 +61,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0039 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./DataStructure/Tree/symmetric-tree.c) | _O(n)_       | _O(1)_          | Easy         |||
+0041 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](./DataStructure/Tree/average-of-levels-in-binary-tree.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 - Priority Queue(Heap)
 - Graph
