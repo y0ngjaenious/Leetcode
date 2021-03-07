@@ -32,6 +32,7 @@
 0004 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./DataStructure/Map/two_sum.py) | _O(n)_       | _O(n)_          | Easy         |||
 0009 | [3sum](https://leetcode.com/problems/3sum/) | [Python](./DataStructure/Map/3-sum.py) | _O(n^2)_       | _O(n)_          | Medium         |||
 0034 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Python](./DataStructure/Map/distribute-candies.py) | _O(n)_       | _O(n)_          | Easy         |||
+0042 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [Python](./DataStructure/Map/design-hashmap.py) |       |          | Easy         |||
 
 - Stack
 
