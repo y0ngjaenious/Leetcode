@@ -3,6 +3,7 @@
 - Minimum 3 question per week.
 
 ## Problems
+Total: 48
 ### Data structure
 - Linkded List
 
@@ -33,6 +34,8 @@
 0009 | [3sum](https://leetcode.com/problems/3sum/) | [Python](./DataStructure/Map/3-sum.py) | _O(n^2)_       | _O(n)_          | Medium         |||
 0034 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Python](./DataStructure/Map/distribute-candies.py) | _O(n)_       | _O(n)_          | Easy         |||
 0042 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [Python](./DataStructure/Map/design-hashmap.py) |       |          | Easy         |||
+0045 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](DataStructure/Map/integer-to-roman.cpp) |   _O(n)_    |     _O(1)_     | Easy         |||
+0047 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](./DataStructure/Map/check-if-a-string-contains-all-binary-codes-of-size-k.cpp) |   _O(n)_    |     _O(n)_     | Medium         |||
 
 - Stack
 
@@ -65,6 +68,11 @@
 
 - Priority Queue(Heap)
 - Graph
+- ETC..
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0043 | [Remove Palindromic Subsequences](https://leetcode.com/remove-palindromic-subsequences/) | [Python](./DataStructure/ETC/remove-palindromic-subsequences.py) | _O(n)_       | _O(n)_          | Easy         |||
 
 ### Algorithms
 - Two Pointer(Sliding Window)
@@ -93,6 +101,8 @@
 0018 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./Algorithms/DP/minimum-path-sum.py) | _O(mn)_       | _O(mn)_          | Medium         |||
 0020 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell.py) | _O(n)_       | _O(1)_          | Easy         |||
 0024 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python](./Algorithms/DP/maximum-profit-in-job-scheduling.py) | _O(nlogn)_       | _O(1)_          | Hard         |||
+0046 | [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./Algorithms/DP/coin-change.cpp) | _O(n)_       | _O(n)_          | Medium         |||
+0048 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](./Algorithms/DP/binary-trees-with-factors.cpp) | _O(n^2)_       | _O(n)_          | Medium         |||
 
 - Implementation
 
@@ -120,3 +130,4 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0037 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/BFS/jump-game-iii.py) | _O(n)_       | _O(n)_          | Medium         |||
 0041 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](./DataStructure/Tree/average-of-levels-in-binary-tree.py) | _O(n)_       | _O(n)_          | Easy         |||
+0044 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [C++](./Algorithms/BFS/add-one-row-to-tree.cpp) | _O(n)_       | _O(n)_          | Medium         |||
