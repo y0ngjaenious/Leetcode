@@ -105,7 +105,7 @@ Total: 56
 0024 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python](./Algorithms/DP/maximum-profit-in-job-scheduling.py) | _O(nlogn)_       | _O(1)_          | Hard         |||
 0046 | [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./Algorithms/DP/coin-change.cpp) | _O(n)_       | _O(n)_          | Medium         |||
 0048 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](./Algorithms/DP/binary-trees-with-factors.cpp) | _O(n^2)_       | _O(n)_          | Medium         |||
-0050 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/binary-trees-with-factors/) | [Python](./Algorithms/DP/ best-time-to-buy-and-sell-stock-with-transaction-fee.py) | _O(n)_       | _O(n)_          | Medium         |||
+0050 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/binary-trees-with-factors/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell-stock-with-transaction-fee.py) | _O(n)_       | _O(n)_          | Medium         |||
 0052 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Python](./Algorithms/DP/wiggle-subsequence.py) | _O(n)_       | _O(n)_          | Medium         |||
 
 - Implementation
@@ -143,4 +143,4 @@ Total: 56
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0051 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Python](./Algorithms/Math/generate-random-point-in-a-circle.py) | _O(1)_       | _O(1)_          | Medium         |||
+0051 | [Generate Random Pointer in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Python](./Algorithms/Math/generate-random-point-in-a-circle.py) | _O(1)_       | _O(1)_          | Medium         |||
