@@ -3,7 +3,7 @@
 - Minimum 3 question per week.
 
 ## Problems
-Total: 48
+Total: 55
 ### Data structure
 - Linkded List
 
@@ -73,6 +73,7 @@ Total: 48
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0043 | [Remove Palindromic Subsequences](https://leetcode.com/remove-palindromic-subsequences/) | [Python](./DataStructure/ETC/remove-palindromic-subsequences.py) | _O(n)_       | _O(n)_          | Easy         |||
+0055 | [Reordered Power of 2](https://leetcode.com/reordered-power-of-2/) | [Python](./DataStructure/ETC/reordered-power-of-2.py) | _O(n)_       | _O(n)_          | Medium         |||
 
 ### Algorithms
 - Two Pointer(Sliding Window)
@@ -103,6 +104,8 @@ Total: 48
 0024 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python](./Algorithms/DP/maximum-profit-in-job-scheduling.py) | _O(nlogn)_       | _O(1)_          | Hard         |||
 0046 | [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./Algorithms/DP/coin-change.cpp) | _O(n)_       | _O(n)_          | Medium         |||
 0048 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](./Algorithms/DP/binary-trees-with-factors.cpp) | _O(n^2)_       | _O(n)_          | Medium         |||
+0050 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/binary-trees-with-factors/) | [Python](./Algorithms/DP/ best-time-to-buy-and-sell-stock-with-transaction-fee.py) | _O(n)_       | _O(n)_          | Medium         |||
+0052 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Python](./Algorithms/DP/wiggle-subsequence.py) | _O(n)_       | _O(n)_          | Medium         |||
 
 - Implementation
 
@@ -110,6 +113,8 @@ Total: 48
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0007 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Implementation/palindrome-number.py) | _O(n)_       | _O(1)_          | Easy         |||
 0028 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](./Algorithms/Implementation/peeking-iterator.py) |       |          | Medium         |||
+0049 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](./Algorithms/Implementation/encode-and-decode-tinyurl.py) |       |          | Medium         |||
+0054 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Python](./Algorithms/Implementation/design-underground-system.py) |       |          | Medium         |||
 
 - Brute Force
 
@@ -131,3 +136,10 @@ Total: 48
 0037 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/BFS/jump-game-iii.py) | _O(n)_       | _O(n)_          | Medium         |||
 0041 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](./DataStructure/Tree/average-of-levels-in-binary-tree.py) | _O(n)_       | _O(n)_          | Easy         |||
 0044 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [C++](./Algorithms/BFS/add-one-row-to-tree.cpp) | _O(n)_       | _O(n)_          | Medium         |||
+0053 | [Key and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](./Algorithms/BFS/keys-and-rooms.py) | _O(n)_       | _O(n)_          | Medium         |||
+
+- Math
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0051 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Python](./Algorithms/Math/generate-random-point-in-a-circle.py) | _O(1)_       | _O(1)_          | Medium         |||
