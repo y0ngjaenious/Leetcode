@@ -3,7 +3,7 @@
 - Minimum 3 question per week.
 
 ## Problems
-Total: 55
+Total: 56
 ### Data structure
 - Linkded List
 
@@ -17,6 +17,7 @@ Total: 55
 0019 | [Merge Two sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./DataStructure/LinkedList/merge-two-sorted-lists.py) | _O(n+m)_    | _O(1)_          | Easy         |||
 0030 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./DataStructure/LinkedList/copy-list-with-random-pointer.py) | _O(n)_    | _O(n)_          | Medium         |||
 0040 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C](./DataStructure/LinkedList/intersection-of-two-linked-lists.c) | _O(n)_    | _O(1)_          | Easy         |||
+0056 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./DataStructure/LinkedList/swapping-nodes-in-a-linked-list.cpp) | _O(n)_    | _O(1)_          | Medium         |||
 
 - Array
 
