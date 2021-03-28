@@ -3,7 +3,7 @@
 - Minimum 3 question per week.
 
 ## Problems
-Total: 56
+Total: 62
 ### Data structure
 - Linkded List
 
@@ -37,6 +37,10 @@ Total: 56
 0042 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [Python](./DataStructure/Map/design-hashmap.py) |       |          | Easy         |||
 0045 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](DataStructure/Map/integer-to-roman.cpp) |   _O(n)_    |     _O(1)_     | Easy         |||
 0047 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](./DataStructure/Map/check-if-a-string-contains-all-binary-codes-of-size-k.cpp) |   _O(n)_    |     _O(n)_     | Medium         |||
+0057 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Python](./DataStructure/Map/vowel-spellchecker.py) |   _O(n + m)_    |     _O(n)_     | Medium         |||
+0058 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Python](./DataStructure/Map/3sum-with-multiplicity.py) |   _O(nlogn + m^2)_    |     _O(m)_     | Medium         |||
+0060 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Python](./DataStructure/Map/word-subsets.py) |   _O(n + m)_    |     _O(1)_     | Medium         |||
+0062 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Python](./DataStructure/Map/reconstruct-original-digits-from-english.py) |   _O(n)_    |     _O(n)_     | Medium         |||
 
 - Stack
 
@@ -107,6 +111,7 @@ Total: 56
 0048 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](./Algorithms/DP/binary-trees-with-factors.cpp) | _O(n^2)_       | _O(n)_          | Medium         |||
 0050 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/binary-trees-with-factors/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell-stock-with-transaction-fee.py) | _O(n)_       | _O(n)_          | Medium         |||
 0052 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Python](./Algorithms/DP/wiggle-subsequence.py) | _O(n)_       | _O(n)_          | Medium         |||
+0061 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](./Algorithms/DP/palindromic-substrings.py) | _O(n^2)_       | _O(1)_          | Medium         |||
 
 - Implementation
 
@@ -129,6 +134,9 @@ Total: 56
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0023 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/Greedy/jump-game.py) | _O(n)_       | _O(1)_          | Medium         |||
 0036 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./Algorithms/Greedy/jump-game-ii.py) | _O(n)_       | _O(1)_          | Hard         |||
+0059 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python](./Algorithms/Greedy/advantage-shuffle.py) | _O(nlogn + mlogm)_       | _O(m)_          | Medium         |||
+
+
 
 - BFS
 
