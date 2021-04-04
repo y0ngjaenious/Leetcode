@@ -3,7 +3,7 @@
 - Minimum 3 question per week.
 
 ## Problems
-Total: 62
+Total: 66
 ### Data structure
 - Linkded List
 
@@ -18,6 +18,7 @@ Total: 62
 0030 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./DataStructure/LinkedList/copy-list-with-random-pointer.py) | _O(n)_    | _O(n)_          | Medium         |||
 0040 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C](./DataStructure/LinkedList/intersection-of-two-linked-lists.c) | _O(n)_    | _O(1)_          | Easy         |||
 0056 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./DataStructure/LinkedList/swapping-nodes-in-a-linked-list.cpp) | _O(n)_    | _O(1)_          | Medium         |||
+0066 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Python](./DataStructure/LinkedList/palindrome-linked-list.py) | _O(n)_    | _O(1)_          | Easy         |||
 
 - Array
 
@@ -70,6 +71,7 @@ Total: 62
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0039 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](./DataStructure/Tree/symmetric-tree.c) | _O(n)_       | _O(1)_          | Easy         |||
+0063 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Python](./DataStructure/Tree/flip-binary-tree-to-match-preorder-traversal.py) | _O(n)_       | _O(1)_          | Medium         |||
 
 - Priority Queue(Heap)
 - Graph
@@ -112,7 +114,8 @@ Total: 62
 0050 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/binary-trees-with-factors/) | [Python](./Algorithms/DP/best-time-to-buy-and-sell-stock-with-transaction-fee.py) | _O(n)_       | _O(n)_          | Medium         |||
 0052 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Python](./Algorithms/DP/wiggle-subsequence.py) | _O(n)_       | _O(n)_          | Medium         |||
 0061 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](./Algorithms/DP/palindromic-substrings.py) | _O(n^2)_       | _O(1)_          | Medium         |||
-
+0064 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Python](./Algorithms/DP/russian-doll-envelopes.py) | _O(nlogn)_       | _O(n)_          | Hard         |||
+ 
 - Implementation
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -135,6 +138,7 @@ Total: 62
 0023 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/Greedy/jump-game.py) | _O(n)_       | _O(1)_          | Medium         |||
 0036 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./Algorithms/Greedy/jump-game-ii.py) | _O(n)_       | _O(1)_          | Hard         |||
 0059 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python](./Algorithms/Greedy/advantage-shuffle.py) | _O(nlogn + mlogm)_       | _O(m)_          | Medium         |||
+0065 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [Python](./Algorithms/Greedy/stamping-the-sequence.py) | _O(n^2)_       | _O(n)_          | Hard         |||
 
 
 
